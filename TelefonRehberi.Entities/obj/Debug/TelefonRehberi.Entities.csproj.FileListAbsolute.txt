@@ -1,0 +1,6 @@
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.pdb

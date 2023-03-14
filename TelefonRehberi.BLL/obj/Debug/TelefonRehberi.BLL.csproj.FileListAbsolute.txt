@@ -1,0 +1,13 @@
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.BLL.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.BLL.pdb
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Core.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Core.pdb
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.csproj.CopyComplete
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.pdb
