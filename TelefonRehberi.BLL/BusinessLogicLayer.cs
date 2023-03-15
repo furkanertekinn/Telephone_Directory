@@ -108,7 +108,7 @@ namespace TelefonRehberi.BLL
                 XDocument Doc = new XDocument(new XDeclaration("1.0.0.1", "UTF-8", "yes"), new XElement("RehberKayitlar", Kayitlarim.Select
                     (I => new XElement("Kayit", new XElement("ID", I.ID), new XElement("Isim", I.Isim), new XElement("Soyisim", I.Soyisim), new XElement("TelefonI", I.TelefonI),
                     new XElement("TelefonII", I.TelefonII), new XElement("TelefonIII", I.TelefonIII), new XElement("EmailAdres", I.EmailAdres), new XElement("Adres", I.Adres)
-                    , new XElement("WebSite", I.Website), new XElement("Aciklama"I.Aciklama)))));
+                    , new XElement("WebSite", I.Website), new XElement("Aciklama", I.Aciklama)))));
                 Doc.Save(@"c:\TelefonRehberiDB\DataVerXML.xml");
                 Sonuc = 1;
 

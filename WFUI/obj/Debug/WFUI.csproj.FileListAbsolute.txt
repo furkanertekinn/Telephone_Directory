@@ -19,3 +19,8 @@ C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\obj\Debug\WFUI.csproj.CopyCompl
 C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\obj\Debug\WFUI.exe
 C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\obj\Debug\WFUI.pdb
 C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\obj\Debug\WFUI.AnaForm.resources
+C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\obj\Debug\WFUI.LisansEkran.resources
+C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\bin\Debug\CsvHelper.dll
+C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\bin\Debug\TelefonRehberi.BLL.dll.config
+C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\bin\Debug\CsvHelper.pdb
+C:\Users\Furkan\source\repos\TelefonRehberi\WFUI\bin\Debug\CsvHelper.xml
